@@ -141,10 +141,3 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 
 Thank you for using **Handwriting Generator**! 😊
 ```
-
-### Next Steps:
-1. Replace `yourusername` with your GitHub username in the clone command.
-2. Add a `requirements.txt` file with the required dependencies (`Pillow`).
-3. Include example images (before and after) in your repository and reference them in the README.
-
-Let me know if you’d like help with any of these steps! 🚀
